@@ -6,3 +6,6 @@ Being optimist is very important
 
 # Zeru
 Man of tech
+
+# keep learning
+Learning to learn
