@@ -12,3 +12,6 @@ Learning to learn
 
 # keep working
 you will end up winning
+
+# local development
+1. open index.html in your browser
