@@ -9,3 +9,6 @@ Man of tech
 
 # keep learning
 Learning to learn
+
+# keep working
+you will end up winning
